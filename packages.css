@@ -122,125 +122,6 @@ html {
     color: aliceblue;
 }
 
-.services {
-    padding-top: 15rem;
-}
-
-.services .box-container {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
-    gap: 1.5rem;
-}
-
-.services .box-container .box {
-    text-align: center;
-    padding: 2rem;
-    border-radius: 5rem;
-    box-shadow: var(--box-shadow);
-    border: var(--border);
-}
-
-.services .box-container .box i {
-    height: 6rem;
-    width: 6rem;
-    line-height: 6rem;
-    font-size: 2.5rem;
-    color: black;
-    background: #011638;
-    border-radius: 50%;
-    margin-bottom: 1rem;
-}
-
-.services .box-container .box h3 {
-    color: white;
-    font-size: 2.2rem;
-}
-
-.services .box-container .box p {
-    color: #CDC6A5;
-    font-size: 1.4rem;
-    padding: 1rem 0;
-    line-height: 1.8;
-}
-
-.services .box-container .box:hover i {
-    color: white;
-    background: black;
-}
-
-.services .box-container .box:hover {
-    background: #011638;
-}
-
-.services .box-container .box:hover h3 {
-    color: black;
-}
-
-.services .box-container .box:hover p {
-    color: white
-}
-
-.heading .h1 {
-    font-size: 99%;
-}
-
-
-/* ser2 */
-
-.services2 .box-container {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
-    gap: 1.5rem;
-}
-
-.services2 .box-container .box {
-    text-align: center;
-    padding: 2rem;
-    border-radius: 5rem;
-    box-shadow: var(--box-shadow);
-    border: var(--border);
-}
-
-.services2 .box-container .box i {
-    height: 6rem;
-    width: 6rem;
-    line-height: 6rem;
-    font-size: 2.5rem;
-    color: black;
-    background: #011638;
-    border-radius: 50%;
-    margin-bottom: 1rem;
-}
-
-.services2 .box-container .box h3 {
-    color: white;
-    font-size: 2.2rem;
-}
-
-.services2 .box-container .box p {
-    color: #CDC6A5;
-    font-size: 1.4rem;
-    padding: 1rem 0;
-    line-height: 1.8;
-}
-
-.services2 .box-container .box:hover i {
-    color: white;
-    background: black;
-}
-
-.services2 .box-container .box:hover {
-    background: #011638;
-}
-
-.services2 .box-container .box:hover h3 {
-    color: black;
-}
-
-.services2 .box-container .box:hover p {
-    color: white;
-}
-
 .buttons :first-child:hover {
     background: rgba(255, 0, 0, 0.514);
 }
@@ -331,11 +212,11 @@ html {
 }
 
 .footer {
-    padding-top: 100rem;
-    background-color: #333;
+    background-color: #191716;
 }
 
-.box {
+
+/* .box {
     background-color: #191716;
     position: relative;
 }
@@ -343,4 +224,4 @@ html {
 .box1 {
     background-color: #191716;
     position: relative;
-}
+} */
