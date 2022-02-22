@@ -222,10 +222,7 @@ body {
 }
 
 .contact .row .map {
-    flex: 1 1 42rem;
-    width: 100%;
-    padding: 2rem;
-    padding-left: 6rem;
+    margin: 0 auto;
     padding-top: 8rem;
     border: var(--border);
     border-radius: .5rem;
