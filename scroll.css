@@ -10,10 +10,10 @@
     height: 100vh;
     position: fixed;
     width: 100%;
-    background-image: url("./ship-scaled.jpg");
+    background-image: url("https://i.ibb.co/wzkcVLq/ship-scaled.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center center;
+    background-position: bottom center;
     transform: scale(1);
 }
 
